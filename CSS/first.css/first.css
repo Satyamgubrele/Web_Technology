@@ -1,0 +1,44 @@
+ /* this is group selector.
+.indicate class where # means id  
+* it is universal selector */
+/* red,p{    
+    color: brown;
+    background-color: black;
+} */
+*{
+    margin:0;
+padding: 0;
+background-color: antiquewhite;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+}
+/* 
+.top{
+    background-color: red;
+    border: 3px solid cyan;
+    padding: 20px;
+}
+
+.bottom{
+    background-color: green;
+    border: 3px solid cyan;
+
+} */
+
+.inner{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+}
+
+.container{
+    background-color: yellow;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

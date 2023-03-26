@@ -1,0 +1,21 @@
+header{
+    
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    height: 70px;
+
+    width: 100vw;
+   
+}
+header nav li{
+    display: inline-block;
+    margin: 8px 44px 10px 5px;
+    font-size: 25px;
+}
+.img1{
+    width: 100vw;
+}
+.first{
+    background-color: aqua;
+}

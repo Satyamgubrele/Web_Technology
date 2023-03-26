@@ -1,0 +1,19 @@
+header{
+    height: 70px;
+    color: white;
+    background-color: black;
+
+}
+div{
+    height: 450px;
+    background-color: aquamarine;
+}
+footer{
+    padding: 10px;;
+    height: 40px;
+    background-color: blue;
+
+}
+p{
+    text-align: center;
+}
